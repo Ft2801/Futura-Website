@@ -12,9 +12,6 @@ const ProcessPage: React.FC = () => {
           transition={{ duration: 1.2, ease: [0.16, 1, 0.3, 1] }}
           className="text-center mb-24"
         >
-          <span className="text-cyan-400 text-xs font-bold tracking-[0.2em] uppercase mb-4 inline-block">
-            Workflow
-          </span>
           {/* Added leading-normal and pb-2 to prevent text clipping */}
           <h1 className="text-5xl md:text-7xl font-display font-medium text-transparent bg-clip-text bg-gradient-to-b from-white to-slate-400 opacity-75 mb-6 tracking-tight leading-normal pb-2">
             Chaos to Order.

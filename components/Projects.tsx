@@ -35,7 +35,6 @@ const Projects: React.FC = () => {
           <h2 className="text-4xl md:text-6xl font-display font-medium text-transparent bg-clip-text bg-gradient-to-b from-white to-slate-400 opacity-75 mb-6 tracking-tight leading-normal pb-2">
             Selected Works
           </h2>
-          <div className="h-1 w-24 bg-white/20 rounded-full mx-auto mb-6" />
           <p className="text-slate-400 font-light max-w-md mx-auto text-sm leading-relaxed">
             We build digital products that define the future. Here is a selection of our most recent deployed systems.
           </p>

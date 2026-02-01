@@ -29,9 +29,6 @@ const Process: React.FC = () => {
     <section id="process" className="w-full py-20 px-6 md:px-12 border-t border-white/5">
       <div className="max-w-7xl mx-auto">
         <div className="mb-24 text-center">
-          <span className="text-cyan-400 text-xs font-bold tracking-[0.2em] uppercase mb-4 inline-block">
-            Methodology
-          </span>
           <h2 className="text-4xl md:text-6xl font-display font-medium text-transparent bg-clip-text bg-gradient-to-b from-white to-slate-400 opacity-75 tracking-tight leading-normal pb-2">
             From Concept to Reality
           </h2>

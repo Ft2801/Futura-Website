@@ -12,7 +12,6 @@ const Testimonials: React.FC = () => {
           viewport={{ once: true }}
           className="mb-16 text-center"
         >
-          <Quote className="w-12 h-12 text-cyan-500/30 mx-auto mb-6" />
           <h2 className="text-4xl md:text-6xl font-display font-medium text-transparent bg-clip-text bg-gradient-to-b from-white to-slate-400 opacity-75 tracking-tight leading-normal pb-2">
             What they say
           </h2>

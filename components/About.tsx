@@ -13,9 +13,7 @@ const About: React.FC = () => {
           viewport={{ once: true }}
           transition={{ duration: 0.8 }}
         >
-          <span className="text-cyan-400 text-xs font-bold tracking-[0.2em] uppercase mb-4 inline-block">
-            Who We Are
-          </span>
+
           {/* Added pb-2 and changed leading-tight to leading-normal to prevent descenders (g, y, j) from being cut off by bg-clip-text */}
           <h2 className="text-4xl md:text-6xl font-display font-medium text-transparent bg-clip-text bg-gradient-to-b from-white to-slate-400 opacity-75 mb-8 leading-normal pb-2">
             Architects of the <br />

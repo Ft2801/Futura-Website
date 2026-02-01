@@ -126,7 +126,6 @@ const Services: React.FC = () => {
           <h2 className="text-4xl md:text-6xl font-display font-medium text-transparent bg-clip-text bg-gradient-to-b from-white to-slate-400 opacity-75 mb-6 tracking-tight leading-normal pb-2">
             Our Expertise
           </h2>
-          <div className="h-1.5 w-24 bg-gradient-to-r from-indigo-500 to-cyan-500 rounded-full mx-auto" />
         </motion.div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
